@@ -61,7 +61,3 @@ streamlit run apps/app2.py
 ## Auteur
 
 [Ipamma Marcellin SAMBIENI](https://github.com/Marcellin752) - Étudiant en Expertise Informatique à Epitech Bénin et membre de l'association Epi'AI
-
-Peniel YAYI
-
-Carlos SOSSOU
